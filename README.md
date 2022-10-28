@@ -1,4 +1,4 @@
-# LED_fading_without_Potentiometer
+# LED_fading_without_Potentiometer_using_IF_condition
 
 ##Components
 - Arduino Uno 
